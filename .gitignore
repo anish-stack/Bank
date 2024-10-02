@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.env
+
+dist/
+build/
+
+tmp/
+temp/
+*.tmp
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
